@@ -1,0 +1,1 @@
+g++ -o ymsh main.cpp
